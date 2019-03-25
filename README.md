@@ -1,0 +1,2 @@
+# magicwing.github.io
+blog
