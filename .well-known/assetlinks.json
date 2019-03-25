@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "net.gaotoo.app",
+    "sha256_cert_fingerprints":
+    ["1B:1B:D4:56:C9:D7:53:7D:2B:51:AE:FF:96:19:E8:55:5E:C6:84:04:BC:12:FB:D0:22:78:1E:81:5D:66:20:64"]
+  }
+}]
