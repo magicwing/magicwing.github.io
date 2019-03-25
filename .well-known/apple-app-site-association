@@ -1,0 +1,11 @@
+﻿{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "SH4TXRPU8C.net.gaotoo.bookingapp",
+                "paths": [ "/applink/"]
+            }
+        ]
+    }
+}
