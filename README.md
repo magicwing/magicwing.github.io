@@ -1,6 +1,7 @@
 # App Links 验证
 
 App网址：https://magicwing.github.io
+（注：android不支持net和com以外的网站）
 
 验证状态：通过（android/ios）
 
