@@ -10,6 +10,4 @@ App网址：https://magicwing.github.io
 验证ios：https://search.developer.apple.com/appsearch-validation-tool
 
 # electron-manage4mp
-|Key|Value|
-|-|-|
-|SecretKey|e4f75d2b-0a66-463f-a85e-9f2524c3716c|
+> SecretKey=e4f75d2b-0a66-463f-a85e-9f2524c3716c
