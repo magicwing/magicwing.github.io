@@ -1,0 +1,81 @@
+{
+  "Data": [
+    {
+      "Details": {
+        "Function": [
+          "https://magicwing.github.io/ProductPresent/B/01.jpg",
+          "https://magicwing.github.io/ProductPresent/B/02.jpg"
+        ],
+        "Parameter": [
+          "https://magicwing.github.io/ProductPresent/C/01.jpg",
+          "https://magicwing.github.io/ProductPresent/C/02.jpg"
+        ],
+        "Specification": [
+          "https://magicwing.github.io/ProductPresent/A/01.png",
+          "https://magicwing.github.io/ProductPresent/A/02.png"
+        ]
+      },
+      "Id": "001",
+      "Name": "图片"
+    },
+    {
+      "Details": {
+        "Function": [
+          "https://magicwing.github.io/ProductPresent/D/09.gif",
+          "https://magicwing.github.io/ProductPresent/F/08.gif"
+        ],
+        "Parameter": [
+          "https://magicwing.github.io/ProductPresent/G/23.gif",
+          "https://magicwing.github.io/ProductPresent/H/12.gif"
+        ],
+        "Specification": [
+          "https://magicwing.github.io/ProductPresent/A/04.gif",
+          "https://magicwing.github.io/ProductPresent/C/07.gif"
+        ]
+      },
+      "Id": "002",
+      "Name": "动图"
+    },
+    {
+      "Details": {
+        "Function": [
+          "https://magicwing.github.io/ProductPresent/C/C.mp4"
+        ],
+        "Parameter": [
+          "https://magicwing.github.io/ProductPresent/D/D.mp4"
+        ],
+        "Specification": [
+          "https://magicwing.github.io/ProductPresent/A/A.mp4"
+        ]
+      },
+      "Id": "003",
+      "Name": "视频"
+    },
+    {
+      "Details": {
+        "Function": [
+          "https://magicwing.github.io/ProductPresent/C/01.jpg",
+          "https://magicwing.github.io/ProductPresent/C/07.gif",
+          "https://magicwing.github.io/ProductPresent/C/02.jpg",
+          "https://magicwing.github.io/ProductPresent/C/C.mp4"
+        ],
+        "Parameter": [
+          "https://magicwing.github.io/ProductPresent/D/01.jpg",
+          "https://magicwing.github.io/ProductPresent/D/09.gif",
+          "https://magicwing.github.io/ProductPresent/D/02.jpg",
+          "https://magicwing.github.io/ProductPresent/D/D.mp4"
+        ],
+        "Specification": [
+          "https://magicwing.github.io/ProductPresent/A/01.png",
+          "https://magicwing.github.io/ProductPresent/A/04.gif",
+          "https://magicwing.github.io/ProductPresent/A/02.png",
+          "https://magicwing.github.io/ProductPresent/A/A.mp4"
+        ]
+      },
+      "Id": "004",
+      "Name": "综合"
+    }
+  ],
+  "ErrorCode": 0,
+  "ErrorMsg": ""
+}
