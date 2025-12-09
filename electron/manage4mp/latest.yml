@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.2.3
 files:
-  - url: 小程序管理 Setup 1.0.0.exe
-    sha512: AwLxz8zQCZdVOwTjSw1zch4V0ZzsjxKr+XRp30yTI3suR0LUsI4ZU54+4rRzGiQAymO2colWr0r2g9GRGZBuFA==
-    size: 106622654
-path: 小程序管理 Setup 1.0.0.exe
-sha512: AwLxz8zQCZdVOwTjSw1zch4V0ZzsjxKr+XRp30yTI3suR0LUsI4ZU54+4rRzGiQAymO2colWr0r2g9GRGZBuFA==
-releaseDate: '2025-12-04T12:00:00.000Z'
+  - url: 小程序管理 Setup 1.2.3.exe
+    sha512: 64tlKgVSS0im+XclEv8qqlzh4RWHo0I2FxG9MOLWNtlWXoGsd3ujsEzg0jWiMZLs2ebtEjliSbdoDtSWQi5PyA==
+    size: 54724171
+path: 小程序管理 Setup 1.2.3.exe
+sha512: 64tlKgVSS0im+XclEv8qqlzh4RWHo0I2FxG9MOLWNtlWXoGsd3ujsEzg0jWiMZLs2ebtEjliSbdoDtSWQi5PyA==
+releaseDate: '2025-12-09T01:22:32.024Z'
